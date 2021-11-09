@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-musica-dev-161818-authRole",
+      "UnauthRoleArn": "arn:aws:iam::197070251099:role/amplify-musica-dev-161818-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::197070251099:role/amplify-musica-dev-161818-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-musica-dev-161818-deployment",
+      "UnauthRoleName": "amplify-musica-dev-161818-unauthRole",
+      "StackName": "amplify-musica-dev-161818",
+      "StackId": "arn:aws:cloudformation:eu-west-1:197070251099:stack/amplify-musica-dev-161818/90b44540-3fd5-11ec-9db8-0ac8d5ab62cb",
+      "AmplifyAppId": "d3vs3mwq8dwcwi"
+    }
+  }
+}
